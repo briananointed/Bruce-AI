@@ -17,5 +17,5 @@ For any queries contact me on brianwachira7@gmail.com
 ### License
 This project is licensed under the terms of the **MIT** license.
 
->You can check out the full license [here](https://github.com/briananointed/Bruce-AI/blob/master/LICENSE)
+>You can check out the full license [here](https://github.com/brianwachira/Bruce-AI/blob/master/LICENSE)
 
